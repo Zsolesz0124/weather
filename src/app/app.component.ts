@@ -25,6 +25,10 @@ export class AppComponent {
   ngOnInit() {
 
   }
+
+  /*navos apikey:
+  * xEMivaziaV73gVuciyve4svirlkH3CBQ*/
+
   /*Az egész kapott json
 {
   "data":{
